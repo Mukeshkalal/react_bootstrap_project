@@ -8,4 +8,5 @@ td {
 table {
     overflow: auto;
     text-align: center;
+    margin: 10px auto;
 }
