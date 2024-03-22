@@ -1,0 +1,11 @@
+table,
+th,
+tr,
+td {
+    border: 1px solid black;
+}
+
+table {
+    overflow: auto;
+    text-align: center;
+}
